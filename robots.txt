@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://concordhvacco.com/sitemap.xml
